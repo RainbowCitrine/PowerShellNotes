@@ -102,3 +102,13 @@
 - New-PSDrive -name DEMO -psprovider FileSystem -root "\\\Server\share\Folder"
 
 ---
+
+### Industry Terminology 
+---
+
+*Verb-Nouns*
+
+- Get = view file 
+- install = put a new feature onto a machine
+- Add = install a new feature onto an application/package add -windows feature essentaily same command as install (it must already exist)
+- set = manipulate settings 
